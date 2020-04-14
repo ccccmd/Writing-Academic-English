@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.7.18)  10 APR 2020 23:32
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.7.18)  14 APR 2020 18:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**beamer_ctex_A.tex
-(./beamer_ctex_A.tex
+**Noun_clauses.tex
+(./Noun_clauses.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/ctexbeamer.cls
@@ -1710,8 +1710,8 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 . - 'bold' (bx/n) with NFSS spec.: <->"[FandolHei-Bold.otf]/OT"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
-(./beamer_ctex_A.aux)
-\openout1 = `beamer_ctex_A.aux'.
+(./Noun_clauses.aux)
+\openout1 = `Noun_clauses.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -1786,9 +1786,9 @@ LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
 
-(./beamer_ctex_A.out) (./beamer_ctex_A.out)
+(./Noun_clauses.out) (./Noun_clauses.out)
 \@outlinefile=\write5
-\openout5 = `beamer_ctex_A.out'.
+\openout5 = `Noun_clauses.out'.
 
 \symnumbers=\mathgroup11
 LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 21.
@@ -1939,14 +1939,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  TU/lmss/bx/n --> TU/lmss/bx/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  TU/lmtt/bx/n --> TU/lmtt/bx/n on input line 21.
- (./beamer_ctex_A.nav)
+ (./Noun_clauses.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 26.
 
 [1
 
-] (./beamer_ctex_A.toc) [2
+] (./Noun_clauses.toc) [2
 
 ] [3
 
@@ -1963,7 +1963,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [4
 
 ]
-(./beamer_ctex_A.toc) [5
+(./Noun_clauses.toc) [5
 
 ] [6
 
@@ -1987,7 +1987,7 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
 ] [14
 
 ]
-(./beamer_ctex_A.toc) [15
+(./Noun_clauses.toc) [15
 
 ] [16
 
@@ -2002,7 +2002,7 @@ Overfull \hbox (20.3102pt too wide) in paragraph at lines 224--224
 
 [17
 
-] (./beamer_ctex_A.toc) [18
+] (./Noun_clauses.toc) [18
 
 ]
 Overfull \hbox (1.29018pt too wide) in paragraph at lines 244--244
@@ -2011,7 +2011,7 @@ Overfull \hbox (1.29018pt too wide) in paragraph at lines 244--244
 
 [19
 
-] (./beamer_ctex_A.toc) [20
+] (./Noun_clauses.toc) [20
 
 ] [21
 
@@ -2022,29 +2022,29 @@ File: 1.png Graphic file (type bmp)
 
 ]
 \tf@nav=\write6
-\openout6 = `beamer_ctex_A.nav'.
+\openout6 = `Noun_clauses.nav'.
 
 \tf@toc=\write7
-\openout7 = `beamer_ctex_A.toc'.
+\openout7 = `Noun_clauses.toc'.
 
 \tf@snm=\write8
-\openout8 = `beamer_ctex_A.snm'.
+\openout8 = `Noun_clauses.snm'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 267.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 267.
- (./beamer_ctex_A.aux)
+ (./Noun_clauses.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 267.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 267.
-Package rerunfilecheck Info: File `beamer_ctex_A.out' has not changed.
+Package rerunfilecheck Info: File `Noun_clauses.out' has not changed.
 (rerunfilecheck)             Checksum: D2F93481029485DFE473A1D8C5D1222A.
  ) 
 Here is how much of TeX's memory you used:
  33902 strings out of 492970
- 705675 string characters out of 6133938
- 790408 words of memory out of 5000000
+ 705650 string characters out of 6133938
+ 790405 words of memory out of 5000000
  37308 multiletter control sequences out of 15000+600000
  540482 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,16n,64p,10436b,878s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,16n,64p,10435b,878s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on beamer_ctex_A.pdf (22 pages).
+Output written on Noun_clauses.pdf (22 pages).
